@@ -37,7 +37,7 @@ If you want to run CodeCast locally or contribute to its development, follow the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/codecast.git
+   git clone https://github.com/yashgarg7302/Code-Collab.git
    cd codecast
    ```
 2. Install dependencies:
